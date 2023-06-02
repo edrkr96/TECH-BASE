@@ -14,6 +14,6 @@ TECH-BASEというインターンで制作した簡易掲示板です。<br>
 その代わりDEMO動画を用意したので、気になる方はご覧ください。
 
 ## DEMO
-＊部分的に画質が粗くなってしまっています。
+＊部分的に画質が粗くなってしまっています。<br>
 https://github.com/edrkr96/TECH-BASE/assets/96555761/efbfa759-d67a-4c23-b3ab-6eaf65cbfa0f
 
