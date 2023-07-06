@@ -14,6 +14,32 @@ TECH-BASEというインターンで制作した貯金額予測システムで�
 その代わり画像と説明を用意したので、気になる方はご覧ください。
 
 ## DEMO
-＊部分的に画質が粗くなってしまっています。<br>
-https://github.com/edrkr96/TECH-BASE/assets/96555761/efbfa759-d67a-4c23-b3ab-6eaf65cbfa0f
+### スタート画面
+- 予測を行うには会員登録が必須です。
+<img width="509" alt="スクリーンショット 2023-07-06 10 57 16" src="https://github.com/edrkr96/TECH-BASE/assets/96555761/747f6611-6b52-4293-aa30-cb5fb4b56bdf">
 
+### 会員登録
+- スタート画面の新規会員登録ボタンから遷移します。
+- 登録済みのメールアドレスは使用できません。
+<img width="284" alt="スクリーンショット 2023-07-06 10 53 21" src="https://github.com/edrkr96/TECH-BASE/assets/96555761/f5f4f50b-2d2f-4da5-a6b9-e3d3bf8d7d00">
+<br>
+- 登録後の画面
+<img width="332" alt="スクリーンショット 2023-07-06 10 54 15" src="https://github.com/edrkr96/TECH-BASE/assets/96555761/3dc71209-526b-46e1-b3ac-c16100c2bbc1">
+
+### ログイン
+- パスワードの間違いに対してはエラー文が表示されます。
+<img width="534" alt="スクリーンショット 2023-07-06 10 54 55" src="https://github.com/edrkr96/TECH-BASE/assets/96555761/e6b74381-351e-42a6-bff6-0c6d78861c3f">
+
+### マイページ
+- ログイン後に遷移します。
+- 登録情報の変更なども今後メニューに追加予定です。
+- <img width="347" alt="スクリーンショット 2023-07-06 10 55 09" src="https://github.com/edrkr96/TECH-BASE/assets/96555761/f87c14f8-e757-4e55-878e-12cd4ab44419">
+
+### 予測に必要な情報を入力する画面
+- 子どもやマイホームの欄は空でも構いません。
+<img width="591" alt="スクリーンショット 2023-07-06 10 56 36" src="https://github.com/edrkr96/TECH-BASE/assets/96555761/0f7841f9-4f4a-4001-ba89-79ab8ebeabe8">
+
+### 結果
+- 目標との差額が文章で表示されます。
+- 予測された貯金額の遷移がグラフで表示されます。
+<img width="649" alt="スクリーンショット 2023-07-06 10 56 58" src="https://github.com/edrkr96/TECH-BASE/assets/96555761/5026d28e-f959-4314-885c-3dedc4b3d810">
