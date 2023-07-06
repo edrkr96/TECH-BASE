@@ -1,0 +1,19 @@
+.upper {
+    display: grid;
+	place-items: end center;
+    height: 200px;
+	width: 100%;
+}
+.lower {
+    display: grid;
+	place-items: center center;
+    height: 250px;
+	width: 100%;
+}
+
+.chart{
+    display: grid;
+	place-items: center center;
+    height: 400px;
+	width: 100%;
+}
