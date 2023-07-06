@@ -21,7 +21,7 @@ TECH-BASEというインターンで制作した貯金額予測システムで�
 ### 会員登録
 - スタート画面の新規会員登録ボタンから遷移します。
 - 登録済みのメールアドレスは使用できません。
-<img width="284" alt="スクリーンショット 2023-07-06 10 53 21" src="https://github.com/edrkr96/TECH-BASE/assets/96555761/f5f4f50b-2d2f-4da5-a6b9-e3d3bf8d7d00"><br>
+<img width="284" alt="スクリーンショット 2023-07-06 10 53 21" src="https://github.com/edrkr96/TECH-BASE/assets/96555761/f5f4f50b-2d2f-4da5-a6b9-e3d3bf8d7d00">
 
 - 登録後の画面
 <img width="332" alt="スクリーンショット 2023-07-06 10 54 15" src="https://github.com/edrkr96/TECH-BASE/assets/96555761/3dc71209-526b-46e1-b3ac-c16100c2bbc1">
