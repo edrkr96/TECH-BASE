@@ -27,7 +27,7 @@
             $password = 'パスワード';
             $pdo = new PDO($dsn, $user, $password, array(PDO::ATTR_ERRMODE => PDO::ERRMODE_WARNING));
 
-            // 予測の際に登録した情報を記録するフォームを作成
+            // 予測の際に登録した情報を記録するDBを作成
             $sql = "CREATE TABLE IF NOT EXISTS user_input"
             ."(" 
             ."mail varchar(50) PRIMARY KEY,"
